@@ -427,8 +427,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-**Dipankar Pimple**
-- GitHub: [@Dipankar2105](https://github.com/Dipankar2105)
+**VEDANT PATOLE**
+
 
 ---
 
